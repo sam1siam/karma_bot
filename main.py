@@ -5,7 +5,7 @@ reddit = praw.Reddit(
     password="swiss2512",  
     user_agent="my user agent", 
     username="ultracryptocurrency",
-    check_for_async=false
+    check_for_async=False
 )
 
 import random
