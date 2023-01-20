@@ -7,10 +7,6 @@ bottleneck
 brotlipy
 chart-studio
 comtypes
-conda-build
-conda-repo-cli
-conda-token
-conda-verify
 cufflinks
 cython
 cytoolz
